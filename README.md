@@ -40,7 +40,7 @@ The goal is to bridge the gap between beginner tools and full game engines—wit
 
 Scryft is in **very early development**.
 
-- The editor has **not been built yet**
+- The editor has **been built,** but its not **finished yet.**
 - Core systems are still being designed
 - Features and direction may change
 
