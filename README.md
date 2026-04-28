@@ -61,7 +61,7 @@ We’re looking for developers who want to help build Scryft from the ground up.
 
 <p>
   <a href="https://github.com/scryft/scryft.github.io/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=scryft/scryft.github.io" width="45"/>
+    <img src="https://contrib.rocks/image?repo=scryft/scryft-gui" width="45"/>
   </a>
 </p>
 
